@@ -1,0 +1,37 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .menyu {
+        padding: 20px;
+        font-size: 40px;
+        background-color: black;
+    }
+    
+    .menyu a {
+        text-decoration: none;
+        margin-left: 100px;
+    }
+    
+    video {
+        width: 300px;
+        border-radius: 20px;
+        margin: 50px;
+    }
+    
+    img {
+        margin: 50px 80px;
+        width: 294px;
+        border-radius: 10px;
+    }
+    
+    video {
+        margin: 50px 50px;
+        width: 24%;
+    }
+    
+    audio {
+        margin-left: 40px;
+        padding: 50px;
+    }
